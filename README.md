@@ -21,7 +21,7 @@ Descripción breve del proyecto.
 Instrucciones para instalar el proyecto:
 
 ```bash
-git clone https://github.com/usuario/proyecto.git
+git clone https://github.com/laureanoendeiza/proyecto.git
 cd proyecto
 npm install
 ```
@@ -59,5 +59,5 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## Créditos
 
-- **Nombre del Desarrollador** - *Trabajo Inicial* - [GitHub](https://github.com/usuario)
+- **Nombre del Desarrollador** - *Trabajo Inicial* - [GitHub](https://github.com/laureanoendeiza)
 - **Nombre del Colaborador** - *Contribuciones Importantes* - [GitHub](https://github.com/otro-usuario)
