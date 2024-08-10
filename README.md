@@ -1,7 +1,7 @@
-# Power Panel
+# Power Panel 2
 Esto es ultra secreto, no deberías tener acceso
 
-Lo más importante es que esto no tiene sentido, y aunque no quiero decir que sea una prueba, en realidad lo es. No he corregido la ortografía ni la redacción, lo cual es un problema.+
+Lo más importante es que esto no tiene sentido, y aunque no quiero decir que sea una prueba, en realidad lo es. No he corregido la ortografía ni la redacción, lo cual es un problema.
 
 # Proyecto Nombre
 
